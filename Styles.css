@@ -1,0 +1,103 @@
+#catNav1{
+	width: 960px;
+	height:26px;
+	color: #4c4440;
+	background-color: #d6d3d2;
+	border: 2px solid #ababab; 
+	margin-top: 2px;
+	margin-bottom: 6px;
+	margin-left: 15px;
+	margin-right:5px;
+	font-weight: bold;
+	font-size: 16px;
+	float:none;
+	font-family: Helvetica;
+}
+
+#catNav2{
+	width: 960px;
+	height:10px;
+	color: #c84302;
+	background-color: #f4f3ed;
+	border: 0px solid #ababab; 
+	margin-top: 0px;
+	margin-bottom: 18px;
+	margin-left: 15px;
+	margin-right:5px;
+	float:none;
+	font-family: Georgia;
+}
+
+#pageDiv0{
+	width: 160px;
+	height: 800px;
+	color: #f3f2e9;
+	background-color: #4c4440;
+	border: 0px solid #333333; 
+	float:left;
+	margin-right:10px;
+}
+#pageDiv1{
+	width: 475px;
+	height: 800px;
+	color: #4c4440;
+	background-color: #f4f3ed;
+	border: 1px solid #4c4440;
+	float:left;
+	text-align: center;
+	margin-right:10px;
+}
+#pageDiv2{
+	width: 320px;
+	height: 800px;
+	color: #82bdc0;
+	background-color: #133240;
+	border: none;
+	float:left;
+	text-align: center;
+}
+
+.myHeadlineClass{
+	font-size:20px;
+	font-family:Georgia;
+	margin-bottom: 8px;
+}
+
+.myBylineClass{
+	font-size:13px;
+	font-family:Helvetica;
+}
+
+.mypubDateClass{
+	font-size:12px;
+	font-family:Helvetica;
+	margin-bottom: 12px;
+	
+}
+
+.myDescriptionClass{
+	font-size:12px;
+	font-family:Helvetica;
+	margin-bottom: 12px;
+	
+}
+
+h1 {
+font-size: 36px;
+color: #4c4440;
+font-weight: light;
+margin-top: 0px;
+margin-bottom: 2px;
+font-family: "Rockwell Extra Bold";
+text-align: justify;
+} 
+
+h2 {
+font-size: 16px;
+color: #8d8784;
+font-weight: 100;
+margin-top: 2px;
+margin-bottom: 8px;
+font-family: Helvetica;
+text-align: justify;
+} 
